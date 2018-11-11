@@ -1,4 +1,22 @@
 # 100 Days Of Code - Log
+
+### Day 3: Nov 11th, 2018
+
+**Today's Progress**: Built first iOS app following a YouTube tutorial!
+
+**Thoughts**: Won't pay for the course - look at all available YouTube resources first.
+
+**Links**:
+1. [Youtube Tutorial](https://www.youtube.com/watch?v=5b91dFhZz0g)
+
+
+### Day 2: Nov 10th, 2018
+
+**Today's Progress**: More FCC lessons.
+
+**Thoughts**: Not much time today.
+
+
 ### Day 1: Nov 9th, 2018
 
 **Today's Progress**: Started setting up Xcode, worked on Basic HTML and HTML5 on FCC.
@@ -15,5 +33,3 @@
 **Today's Progress**: Set up 100 days of code.
 
 **Thoughts:** Will do 30 minutes a day at first. 
-
-
